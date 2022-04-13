@@ -374,6 +374,13 @@ body.light-theme {
   margin-bottom: 2rem;
 }
 
+.home__typed{
+  font-size: var(--smaller-font-size);
+  font-weight: var(--font-lighter);
+  text-align: justify;
+  margin-top: 2rem;
+  height: 3rem;
+}
 
 .home__social {
   color: var(--first-color);
@@ -1257,6 +1264,14 @@ body.light-theme {
     margin-bottom: 2rem;
   }
 
+  .home__typed{
+    font-size: var(--smaller-font-size);
+    font-weight: var(--font-lighter);
+    text-align: justify;
+    margin-top: 2rem;
+    height: 3rem;
+  }
+  
   /* =========== ABOUT SECTION ===============*/
   .about__container {
     justify-content: center;
