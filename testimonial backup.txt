@@ -1,0 +1,40 @@
+        <section class="testimonial section" id="testimonial">
+            <span class="section__subtitle">References</span>
+            <h2 class="section__title">Testimonials</h2>
+
+            <div class="testimonial__container container swiper">
+                <div class="swiper-wrapper">
+                    <!--=============== TESTIMONIALS 1 ===============-->
+                    <div class="testimonial__card swiper-slide">
+                        <img src="/assets/img/testimonial11.png" alt="" class="testimonial__img">
+                        <h3 class="testimonial__name">Krishnan Iyer</h3>
+                        <p class="testimonial__description">
+                            Sukhomoy is basically a mixture of honesty, commitment and punctuality. As a project manager I have enjoyed working with him. Looking forward to work with him.
+                        </p>
+                    </div>
+
+                    <!--=============== TESTIMONIALS 2 ===============-->
+                    <div class="testimonial__card swiper-slide">
+                        <img src="/assets/img/testimonial12.png" alt="" class="testimonial__img">
+                        <h3 class="testimonial__name">Melvin Mathews</h3>
+                        <p class="testimonial__description">
+                            Great personality towards the task, super-quick learner and implementer. Sometimes aggresive
+                            to achieve goal. I always find him beond deadline.
+                        </p>
+                    </div>
+
+                    <!--=============== TESTIMONIALS 3 ===============-->
+                    <div class="testimonial__card swiper-slide">
+                        <img src="/assets/img/testimonial13.png" alt="" class="testimonial__img">
+                        <h3 class="testimonial__name">Sharmeely Brito</h3>
+                        <p class="testimonial__description">
+                            Most helpful person. He completed our project on time with quality. I found his
+                            documentation skill awesome. In detail and with depth. I wish to highlight here, he
+                            automated some of our monthly reports, worth around 10 man-days in a month.
+                        </p>
+                    </div>
+
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </section>

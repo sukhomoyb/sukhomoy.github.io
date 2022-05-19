@@ -1,0 +1,54 @@
+A domain-agnostic, techno-functional professional. Ex-software developer, Microsoft Office application expert, experienced data engineer with advanced SQL development, BI Development Lead and active user of various analytics and visualisation tools Client management exposure with medium-band team leadership experience Mentor of MS-Excel, PowerBI, and VBA. I love helping business leaders make sense of data so they can make easy decisions on it and want to help shape the strategy for business intelligence in a fast-paced and growing organization. I am always keen to share knowledge and experience to enable and empower others.
+
+1	NEWBIE 
+2	ROOKIE
+3	CHALLENGER
+4	ADVANCED
+5	VETERAN
+6	EXPERT
+7	CHAMPION
+8	MASTER
+9	GURU
+
+SQL Developement
+	Involved into SQL Developement with more than 20 years. Providing quality work to clients and companies.
+
+Analytics
+	Develope Strategic and Roburst Data Analytics Model, Capable of handling Business Analytics for Customer, Campaign and Product; specialized for Retail Banking.
+
+	Descriptive Analysis - It is at the foundation of all data insight, Descriptive analysis answers the “what happened” by summarizing past data, usually in the form of dashboards.
+	Diagnostic Analysis - dive deeper and ask why did it happen? This is where diagnostic analysis comes in.
+	Predictive Analysis - attempts to answer the question “what is likely to happen”. This type of analytics utilizes previous data to make predictions about future outcomes.
+	Prescriptive Analysis - helps users determine the best solution or outcome among various possibilities by utilizing Descriptive, Diagnostic and Predictive analysis. 
+
+
+	S.W.O.T.  stands for Strength, Weakness, Opportunities, and Threats
+	M.O.S.T. stands for Mission, Objective, Strategy, and Tactics. 
+	
+BI Developement 
+	My specialized service is not limited to the automation for Data Extraction, Transformation, Loading; I attach insights of the data. Event handling, Business triggur, Dashboard Design, MIS Report designing. 
+	
+Data Visualization
+	I started with Data visualization from Excel, then Cognos and power play transformer, currently I am a member of Microsoft PowerBI community. 
+
+Web BI Design
+	I am experiencd with open source framework and can help to design Business intelligence reports through various javascipt or python libraries. 
+
+
+<i class='bx bx-x'></i>
+<i class='bx bxs-data'></i>
+<i class='bx bx-data'></i>
+https://youtu.be/27JtRAI3QO8?t=2784
+
+
+--first-color-alt
+--body-color:
+--text-color
+
+<i class='bx bxs-circle'></i>
+
+Testimonial
+1. Pic
+2. Name 
+3. Comments
+
